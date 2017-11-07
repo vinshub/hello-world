@@ -1,2 +1,2 @@
 # hello-world
-Hello world of github
+Made edits to the file in the branch
